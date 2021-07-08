@@ -1,2 +1,5 @@
 # trava
-Multiplatform app
+YT-DW electron-based app,
+
+
+#Install
